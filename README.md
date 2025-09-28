@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Olá, meu nome é Wilton Gabriel! </h1>
-  <em>Sou um estudante de desenvolvimento front-end com foco no framework Angular. Tenho contato com programação desde criança e fiz 4 semestres de Sistemas de Informação na Universidade de Pernambuco no período de 2015 a 2017, acabei não terminando o curso na época porque precisava trabalhar, em 2022 voltei a estudar por conta própria, em pouco mais de um ano já possuo mais de 50 certificados na área de desenvolvimento front-end.</em><br><br>
+  <em>Sou um estudante de Engenharia de Software, atualmente no segundo semestre. Tenho contato com programação desde criança e fiz 4 semestres de Sistemas de Informação na Universidade de Pernambuco no período de 2015 a 2017, acabei não terminando o curso na época porque precisava trabalhar, em 2022 voltei a estudar por conta própria, em pouco mais de um ano já possuo mais de 50 certificados na área de desenvolvimento front-end.</em><br><br>
   
   <img height="200vh" src="donatelo.gif"><br>  <a href="https://www.linkedin.com/in/wilton-gabriel-da-silva-731bb8247/" target="_blank"><img height="25vh" src="linkedin.png" target="_blank"></a>
   <a href = "mailto:wgaabs98@gmail.com"><img height="25vh" src="contato.png" target="_blank"></a><br>
